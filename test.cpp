@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int v = 0;
+int v = 1;
 
 int main()
 {
